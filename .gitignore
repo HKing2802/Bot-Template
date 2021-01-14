@@ -1,0 +1,12 @@
+.vs
+.vscode
+/node_modules/**
+auth.json
+*.njsproj
+*.sln
+/Locke Bot.njsproj.user
+/obj/**
+/bin/**
+/logs/*
+/test/logs
+/sql

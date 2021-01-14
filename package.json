@@ -1,0 +1,31 @@
+{
+    "name": "bot-template",
+    "version": "0.0.1",
+    "description": "Template for NodeJS based Discord Bots",
+    "main": "./src/main.js",
+    "engines": {
+        "node": "12.7.0",
+        "npm": "6.10.0"
+    },
+    "scripts": {
+        "test": "mocha",
+        "start": "node ./src/main.js"
+    },
+    "author": "HKing",
+    "license": "GPL-3.0-or-later",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HKing2802/Locke-Bot"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "moment": "^2.29.1",
+        "winston": "^3.3.3",
+        "winston-daily-rotate-file": "^4.5.0"
+    },
+    "devDependencies": {
+        "@chrisalderson/winston-spy": "^1.0.2",
+        "mocha": "^8.2.1",
+        "sinon": "^9.2.2"
+    }
+}
