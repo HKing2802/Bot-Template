@@ -12,10 +12,10 @@
         "start": "node ./src/main.js"
     },
     "author": "HKing",
-    "license": "GPL-3.0-or-later",
+    "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/HKing2802/Locke-Bot"
+        "url": "https://github.com/HKing2802/Bot-Template"
     },
     "dependencies": {
         "discord.js": "^12.5.1",
