@@ -1,0 +1,21 @@
+{
+  "prefix": "!",
+  "logChannel": [
+    [
+      "608027300683841766",
+      "608027300688035904"
+    ]
+  ],
+  "allLogsChannels": [
+    "608027300688035904"
+  ],
+  "commands": [
+    "ping"
+  ],
+  "modules": [
+    {
+      "name": "Message",
+      "path": "events/messageProcess.js"
+    }
+  ]
+}
